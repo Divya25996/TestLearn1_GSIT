@@ -1,2 +1,2 @@
 i am master
-Testing payment
+I am payment
